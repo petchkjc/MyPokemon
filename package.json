@@ -1,0 +1,22 @@
+{
+  "name": "MyPokemon",
+  "version": "1.0.0",
+  "description": "Hello World",
+  "main": "index.html",
+  "scripts": {
+    "start": "node_modules/http-server/bin/http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/petchkjc/MyPokemon.git"
+  },
+  "author": "Tanawat Tassana",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/petchkjc/MyPokemon.git/issues"
+  },
+  "homepage": "https://github.com/petchkjc/MyPokemon.git#readme",
+  "devDependencies": {
+    "http-server": "^0.9.0"
+  }
+}
